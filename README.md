@@ -12,7 +12,7 @@ This project aims to develop a system for detecting anomalies in Electrocardiogr
 
 ## Installation
 1. Clone the repository:
-     https://github.com/Rujuta-25/tnsdc-genAI/
+        (https://github.com/Rujuta-25/tnsdc-genAI.git)
 2. Install dependencies
 
 
